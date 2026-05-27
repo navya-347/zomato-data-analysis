@@ -150,4 +150,8 @@ zomato-data-analysis/
 ---
 
 ## 🚀 Outcome of Project
-This project demonstrates beginner-to-intermediate level data analytics skills using restaurant data and professional GitHub project organization.
+This project demonstrates beginner-to-intermediate level data analytics skills using restaurant data and professional GitHub project organization. 
+
+## ⭐ Project Status
+
+Completed

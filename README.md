@@ -1,3 +1,11 @@
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-purple)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 🍽️ Zomato Data Analysis
 
 ## 📌 Project Overview
